@@ -24,12 +24,12 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #142a39;
 }
 
 @media (max-width: 768px) {
   #Contacto form label {
-    font-weight: 400;
+    font-weight: 420;
   }
 
   .navbar-brand{
